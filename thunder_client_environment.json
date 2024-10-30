@@ -1,0 +1,21 @@
+{
+    "name": "My Thunder Client Environment",
+    "variables": [
+        {
+            "key": "ivolApiKey",
+            "value": "yPafCHHBgixGSutr",
+            "enabled": true
+        },
+        {
+            "key": "ivolUserName",
+            "value": "vgoldin",
+            "enabled": true
+        },
+        {
+            "key": "ivolUserPassword",
+            "value": "ivp1",
+            "enabled": true
+        }
+    ],
+    "_id": "your_unique_id_here"
+}
